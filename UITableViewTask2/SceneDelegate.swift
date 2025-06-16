@@ -1,10 +1,3 @@
-//
-//  SceneDelegate.swift
-//  UITableViewTask2
-//
-//  Created by Artyom Emelianenko on 14.06.2025.
-//
-
 import UIKit
 
 class SceneDelegate: UIResponder, UIWindowSceneDelegate {
